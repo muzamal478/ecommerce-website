@@ -114,7 +114,7 @@ ecommerce-website/
 
 ## Live Demo
 [View the live demo here](https://muzamal478.github.io/ecommerce-website/)
-*Note*: Deploy your website on GitHub Pages or another hosting service and update the link above.
+
 
 ## Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
